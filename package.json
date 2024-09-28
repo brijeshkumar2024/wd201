@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "minimist": "^1.2.8"
-  }
+  },
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000w\u0000d\u00002\u00000\u00001\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
